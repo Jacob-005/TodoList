@@ -1,6 +1,8 @@
 # TodoList
 This is a simple Todo List Organizer
+<br />
 This Todo list consists of an extra feature which is a diary
+<br />
 You have to sign up for both diary and Todo list separately
 <br />
 • In Todo list you have to write the task and click add
